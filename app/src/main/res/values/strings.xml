@@ -1,0 +1,10 @@
+
+<resources>
+    <string name="app_name">ALCApplication</string>
+    <string name="welcome_label">ALC 4 Phase 1</string>
+    <string name="about_label">About ALC</string>
+    <string name="profile_label">My Profile</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="andela">Andela</string>
+    <string name="text_name">Zaira Nazareth</string>
+</resources>
